@@ -16,6 +16,8 @@
 		3F53D1922A43B12D00C83FB8 /* iTakepicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F53D1912A43B12D00C83FB8 /* iTakepicTests.swift */; };
 		3F53D19C2A43B12E00C83FB8 /* iTakepicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F53D19B2A43B12D00C83FB8 /* iTakepicUITests.swift */; };
 		3F53D19E2A43B12E00C83FB8 /* iTakepicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F53D19D2A43B12E00C83FB8 /* iTakepicUITestsLaunchTests.swift */; };
+		3F53D1AE2A43B6F900C83FB8 /* CarsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F53D1AC2A43B6F900C83FB8 /* CarsTableViewCell.swift */; };
+		3F53D1AF2A43B6F900C83FB8 /* CarsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F53D1AD2A43B6F900C83FB8 /* CarsTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		3F53D1972A43B12D00C83FB8 /* iTakepicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iTakepicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F53D19B2A43B12D00C83FB8 /* iTakepicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTakepicUITests.swift; sourceTree = "<group>"; };
 		3F53D19D2A43B12E00C83FB8 /* iTakepicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTakepicUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F53D1AC2A43B6F900C83FB8 /* CarsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarsTableViewCell.swift; sourceTree = "<group>"; };
+		3F53D1AD2A43B6F900C83FB8 /* CarsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CarsTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				3F53D17C2A43B12A00C83FB8 /* SceneDelegate.swift */,
 				3F53D17E2A43B12A00C83FB8 /* ViewController.swift */,
 				3F53D1802A43B12A00C83FB8 /* Main.storyboard */,
+				3F53D1AC2A43B6F900C83FB8 /* CarsTableViewCell.swift */,
+				3F53D1AD2A43B6F900C83FB8 /* CarsTableViewCell.xib */,
 				3F53D1832A43B12D00C83FB8 /* Assets.xcassets */,
 				3F53D1852A43B12D00C83FB8 /* LaunchScreen.storyboard */,
 				3F53D1882A43B12D00C83FB8 /* Info.plist */,
@@ -233,6 +239,7 @@
 			files = (
 				3F53D1872A43B12D00C83FB8 /* LaunchScreen.storyboard in Resources */,
 				3F53D1842A43B12D00C83FB8 /* Assets.xcassets in Resources */,
+				3F53D1AF2A43B6F900C83FB8 /* CarsTableViewCell.xib in Resources */,
 				3F53D1822A43B12A00C83FB8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,6 +267,7 @@
 			files = (
 				3F53D17F2A43B12A00C83FB8 /* ViewController.swift in Sources */,
 				3F53D17B2A43B12A00C83FB8 /* AppDelegate.swift in Sources */,
+				3F53D1AE2A43B6F900C83FB8 /* CarsTableViewCell.swift in Sources */,
 				3F53D17D2A43B12A00C83FB8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
