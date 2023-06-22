@@ -31,7 +31,7 @@ class ViewController: UIViewController {
             .init(name: "MUSTANG", image: "MUSTANG"),
             .init(name: "PANAMERA", image: "PANAMERA"),
             .init(name: "AUDI Q8", image: "Q8"),
-            .init(name: "FORD F-150", image: "F150"),
+            .init(name: "FORD F-1500", image: "F150"),
         ]
     }
 }
